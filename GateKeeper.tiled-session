@@ -1,5 +1,5 @@
 {
-    "activeFile": "assets/spritesheet.tsx",
+    "activeFile": "assets/snowland.tmx",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -8,8 +8,8 @@
             "scale": 0.82939453125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 512.421994583775,
-                "y": 512.421994583775
+                "x": 895.8342164135171,
+                "y": 723.4192864712118
             }
         },
         "assets/dungeon.tmx": {
@@ -17,7 +17,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 512,
-                "y": 512
+                "y": 511
             }
         },
         "assets/grassland.tmx": {
@@ -25,7 +25,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 512,
-                "y": 512
+                "y": 530
             }
         },
         "assets/interior.tmx": {
@@ -33,7 +33,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 512,
-                "y": 512
+                "y": 511
             }
         },
         "assets/snowland.tmx": {
@@ -41,7 +41,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 512,
-                "y": 512
+                "y": 511
             }
         },
         "assets/spritesheet.tsx": {
@@ -49,6 +49,8 @@
             "scaleInEditor": 1
         }
     },
+    "last.exportedFilePath": "/home/daniel/git/GateKeeper-Assets/compressed-assets",
+    "map.lastUsedExportFilter": "Compressed TileMap (*.tmx)",
     "openFiles": [
         "assets/spritesheet.tsx",
         "assets/snowland.tmx",
@@ -59,11 +61,11 @@
     ],
     "project": "GateKeeper.tiled-project",
     "recentFiles": [
+        "assets/spritesheet.tsx",
         "assets/desert.tmx",
         "assets/dungeon.tmx",
         "assets/grassland.tmx",
         "assets/interior.tmx",
-        "assets/snowland.tmx",
-        "assets/spritesheet.tsx"
+        "assets/snowland.tmx"
     ]
 }
