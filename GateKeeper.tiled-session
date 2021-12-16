@@ -1,31 +1,31 @@
 {
-    "activeFile": "assets/snowland.tmx",
+    "activeFile": "assets/desert.tmx",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "assets/desert.tmx": {
-            "scale": 0.82939453125,
+            "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 895.8342164135171,
-                "y": 723.4192864712118
+                "x": -106.060606060606,
+                "y": 357.57575757575773
             }
         },
         "assets/dungeon.tmx": {
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 512,
-                "y": 511
+                "x": 218,
+                "y": 608
             }
         },
         "assets/grassland.tmx": {
-            "scale": 1,
+            "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 512,
-                "y": 530
+                "x": 574.6666666666666,
+                "y": 460
             }
         },
         "assets/interior.tmx": {
@@ -37,20 +37,21 @@
             }
         },
         "assets/snowland.tmx": {
-            "scale": 1,
+            "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 512,
-                "y": 511
+                "x": 1096.969696969697,
+                "y": 915.151515151515
             }
         },
         "assets/spritesheet.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 5.5
         }
     },
     "last.exportedFilePath": "/home/daniel/git/GateKeeper-Assets/compressed-assets",
     "map.lastUsedExportFilter": "Compressed TileMap (*.tmx)",
+    "map.lastUsedFormat": "tmx",
     "openFiles": [
         "assets/spritesheet.tsx",
         "assets/snowland.tmx",
@@ -62,10 +63,10 @@
     "project": "GateKeeper.tiled-project",
     "recentFiles": [
         "assets/spritesheet.tsx",
-        "assets/desert.tmx",
-        "assets/dungeon.tmx",
-        "assets/grassland.tmx",
+        "assets/snowland.tmx",
         "assets/interior.tmx",
-        "assets/snowland.tmx"
+        "assets/grassland.tmx",
+        "assets/dungeon.tmx",
+        "assets/desert.tmx"
     ]
 }
