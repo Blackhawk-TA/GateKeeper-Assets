@@ -1,31 +1,47 @@
 {
-    "activeFile": "assets/desert.tmx",
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "assets/dungeon_combat.tmx",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "/home/daniel/Documents/Pictures/characters.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "assets/desert.tmx": {
             "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": -106.060606060606,
-                "y": 357.57575757575773
+                "x": 512.1212121212122,
+                "y": 513.6363636363636
             }
         },
         "assets/dungeon.tmx": {
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 218,
-                "y": 608
+                "x": 512,
+                "y": 511.5
+            }
+        },
+        "assets/dungeon_combat.tmx": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 273.66666666666663,
+                "y": 198
             }
         },
         "assets/grassland.tmx": {
-            "scale": 0.75,
+            "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 574.6666666666666,
-                "y": 460
+                "x": 512,
+                "y": 511.75
             }
         },
         "assets/interior.tmx": {
@@ -33,32 +49,38 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 512,
-                "y": 511
+                "y": 511.5
             }
         },
         "assets/snowland.tmx": {
             "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1096.969696969697,
-                "y": 915.151515151515
+                "x": 512.1212121212122,
+                "y": 513.6363636363636
             }
         },
         "assets/spritesheet.tsx": {
-            "scaleInDock": 1,
-            "scaleInEditor": 5.5
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
         }
     },
     "last.exportedFilePath": "/home/daniel/git/GateKeeper-Assets/compressed-assets",
+    "map.height": 32,
     "map.lastUsedExportFilter": "Compressed TileMap (*.tmx)",
     "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 32,
     "openFiles": [
         "assets/spritesheet.tsx",
         "assets/snowland.tmx",
         "assets/interior.tmx",
         "assets/grassland.tmx",
         "assets/dungeon.tmx",
-        "assets/desert.tmx"
+        "assets/desert.tmx",
+        "/home/daniel/Documents/Pictures/characters.tsx",
+        "assets/dungeon_combat.tmx"
     ],
     "project": "GateKeeper.tiled-project",
     "recentFiles": [
@@ -67,6 +89,8 @@
         "assets/interior.tmx",
         "assets/grassland.tmx",
         "assets/dungeon.tmx",
-        "assets/desert.tmx"
+        "assets/desert.tmx",
+        "/home/daniel/Documents/Pictures/characters.tsx",
+        "assets/dungeon_combat.tmx"
     ]
 }
