@@ -1,3 +1,4 @@
 .idea
-assets/spritesheet.png
+assets/*.png
 GateKeeper.tiled-session
+
